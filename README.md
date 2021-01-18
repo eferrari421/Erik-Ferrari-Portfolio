@@ -8,9 +8,9 @@
 ![](portfolio_images/diamond.png)
 
 ## [Project 2: Telco Customer Churn Predictor](https://github.com/eferrari421/Telco-Customer-Churn-Prediction)
-- Created a tool that predicts whether or not a customer will churn from Telco
-- Engineered two new features, volume and ratio, from the given features
-- Optimized a Naive Bayes classifier using GridSearchCV to reach the model
+- Developed a classifier that predicts whether or not a customer will churn from Telco
+- Added three new features to the predictors, one of which (total cost to tenure ratio) proved to be the third most important feature in prediction
+- Optimized a Naive Bayes classifier using GridSearchCV to reach the final model with an accuracy of 76.8%
 
 ![](portfolio_images/telco.png)
 
