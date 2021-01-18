@@ -1,3 +1,5 @@
+# Erik Ferrari's Data Science Portfolio
+
 ## [Project 1: Diamond Price Predictor](https://github.com/eferrari421/Diamond-Price-Prediction)
 - Created a tool that estimates the price of a  given diamond 
 - Engineered two new features, volume and ratio, from the given features
